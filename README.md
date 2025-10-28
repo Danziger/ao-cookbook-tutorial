@@ -1,3 +1,3 @@
-# AO Cookbook Interactive Tutorial
+# AO (Arweave) Cookbook Interactive Tutorial
 
 See https://cookbook_ao.arweave.net/tutorials/begin/index.html.
